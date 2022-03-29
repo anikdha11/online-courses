@@ -6,7 +6,7 @@ const Header = () => {
         <>
            <Navbar expand="lg" bg="light" variant="light">
     <Container>
-    <Navbar.Brand style={{ fontWeight: '700', textDecoration: 'none', fontSize: '1rem' }} href="#home">Educational Coursers</Navbar.Brand>
+    <Navbar.Brand style={{ fontWeight: '700', textDecoration: 'none', fontSize: '1rem',color:'WindowFrame',backgroundColor:'MenuText',padding:'2px' }} href="#home">Learn To Love</Navbar.Brand>
     <Nav className="ms-auto">
       <Nav.Link style={{ fontWeight: '700', textDecoration: 'none', fontSize: '1rem' }} href="#home">Home</Nav.Link>
       <Nav.Link style={{ fontWeight: '700', textDecoration: 'none', fontSize: '1rem' }} href="#features">All Courses</Nav.Link>
